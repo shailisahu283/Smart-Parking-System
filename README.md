@@ -2,7 +2,7 @@
 
 A smart and compact system to monitor and manage parking slots using an **IR Remote**, **LED indicators**, and a **16x2 LCD display**. Perfect for beginner-to-intermediate level Arduino enthusiasts. This project simulates a **real-time smart parking lot** that shows occupied/free slots with visual feedback and remote control simulation.
 
-[🔗 View TinkerCAD Simulation](https://www.tinkercad.com/things/INSERT-YOUR-LINK-HERE)
+[🔗 View TinkerCAD Simulation](https://www.tinkercad.com/things/dyVznLmvi0M-smart-parking-system)
 
 ---
 
@@ -22,10 +22,10 @@ A smart and compact system to monitor and manage parking slots using an **IR Rem
 
 | State                  | Screenshot                        |
 |-----------------------|-----------------------------------|
-| 🔌 Circuit Layout      | ![Circuit](./circuit_layout.png) |
-| ✅ All Slots Free      | ![All Free](./all_free.png)      |
-| ❌ All Slots Full      | ![All Full](./all_full.png)      |
-| 🔁 Half Slots Filled   | ![Half Full](./half_full.png)    |
+| 🔌 Circuit Layout      | ![Circuit](https://github.com/user-attachments/assets/f20c7bdf-efb1-44ee-93fa-fe8ebfb47b95) |
+| ✅ All Slots Free      | ![All Free](https://github.com/user-attachments/assets/c7be49df-e651-4c2f-ae0d-c1d316e7faa3)      |
+| ❌ All Slots Full      | ![All Full](https://github.com/user-attachments/assets/490f5a4c-f5bd-4b97-968c-357aba606add)      |
+| 🔁 Half Slots Filled   | ![Half Full](https://github.com/user-attachments/assets/3c0638c1-62e8-4ae9-b2af-0f2739f99986)    |
 
 ---
 
